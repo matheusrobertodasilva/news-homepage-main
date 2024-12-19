@@ -17,15 +17,15 @@
                     <h2 class="text-Soft-orange font-bold text-[36px] mb-3">New</h2>
                     <div class="space-y-8 lg:p-2">
                         <div class="border-b-[1px] pb-8">
-                            <a class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">Hydrogen VS Electric Cars</a>
+                            <a href="#01" class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">Hydrogen VS Electric Cars</a>
                             <p class="text-Grayish-blue mt-2">Will hydrogen-fueled cars ever catch up to EVs?</p>
                         </div>
                         <div class="border-b-[1px] pb-8">
-                            <a class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">The Downsides of AI Artistry</a>
+                            <a href="#02" class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">The Downsides of AI Artistry</a>
                             <p class="text-Grayish-blue mt-2">What are the possible adverse effects of on-demand AI image generation?</p>
                         </div>
                         <div class=" pb-8">
-                            <a class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">Is VC Funding Drying Up?</a>
+                            <a href="#03" class="text-Off-white text-xl font-bold duration-300 transition hover:text-Soft-orange hover:cursor-pointer">Is VC Funding Drying Up?</a>
                             <p class="text-Grayish-blue mt-2">Private funding by VC firms is down 50% YOY. We take a look at what that means.</p>
                         </div>
                     </div>
